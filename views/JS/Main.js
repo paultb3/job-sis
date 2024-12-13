@@ -1,0 +1,1 @@
+print('codigo dinamico para la pagina');
